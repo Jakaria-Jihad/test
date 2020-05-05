@@ -1,1 +1,1 @@
-Hi, this a test text.
+Hi, this a test text. Now I have added a new sentence.
